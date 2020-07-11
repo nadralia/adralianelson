@@ -1,0 +1,54 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Adralia",
+  "MiddleName": "Nelson",
+  "LastName": "Mandela",
+  "devDesc": "| Founder| Entrepreneur | Leader | Engineer | Programmer | Web Developer | Mobile Developer | Artist ",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/nadralia/",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/nelsonadralia/",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/nelsonadralia/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/adralia-nelson-2a956564/",
+      "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-twitter",
+      "url": "https://www.twitter.com/FieldMarshal256/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "nelsonadralia",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "I am passionate, problem solver, critical thinker and full stack software engineer with a passion for building systems and coming up with solutions for solving everyday challenges through technology. I hold a Bachelor’s degree in Software Engineering from Makerere University With 3+ years of experience in software development.",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "nadralia",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 20,
+  "showNavigationbar": true,
+  "showBlog": false
+}
